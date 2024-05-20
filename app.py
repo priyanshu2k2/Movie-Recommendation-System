@@ -4,7 +4,6 @@ import pandas as pd
 import requests
 
 # Custom CSS for button styling and background image
-import streamlit as st
 
 def add_bg_and_github_logo():
     st.markdown(

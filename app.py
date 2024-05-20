@@ -2,8 +2,6 @@ import pickle
 import streamlit as st
 import pandas as pd
 import requests
-import time
-from requests.exceptions import RequestException, Timeout
 
 # Custom CSS for button styling and background image
 import streamlit as st
